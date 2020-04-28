@@ -24,6 +24,6 @@
     "test": "jest",
     "lint": "eslint . --ext .ts"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Oskari Virtaoja",
+  "license": "MIT"
 }
