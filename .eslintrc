@@ -55,16 +55,6 @@
     "jest/no-focused-tests": "warn",
     "object-shorthand": "warn"
   },
-  "overrides": [
-    {
-      "files": [
-        "src/admin/generated/*.ts"
-      ],
-      "rules": {
-        "@typescript-eslint/camelcase": 0
-      }
-    }
-  ],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "project": "./tsconfig.json"
